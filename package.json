@@ -7,7 +7,7 @@
   "author": "raccoondev85",
   "license": "MIT",
   "peerDependencies": {
-    "@ionic-native/core": "^4.2.0",
+    "@ionic-native/core": "^5.33.1",
     "@angular/core": "*",
     "rxjs": "^5.0.1"
   },
